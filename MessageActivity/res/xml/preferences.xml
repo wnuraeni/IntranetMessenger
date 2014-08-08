@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <EditTextPreference 
+        android:title="Username"
+        android:key="username"
+        android:summary="Set your username to login"
+        android:defaultValue=""
+        />
+    <EditTextPreference 
+        android:title="Phone Number"
+        android:key="phone"
+        android:summary="Set your phone for login"
+        android:defaultValue=""
+        />
+    <EditTextPreference 
+        android:title="Network IP Address"
+        android:key="ip_address"
+        android:summary="Set Intranet IP Address"
+        android:defaultValue="192.168.173.1"
+        />
+    
+</PreferenceScreen>
