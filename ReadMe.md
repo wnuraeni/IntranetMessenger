@@ -1,7 +1,7 @@
 This repository helps to give example about how android based online messenger works.
 
 
-![Screenshot: Launch image](https://github.com/wnuraeni/IntranetMessenger/register screen.png)
+![Screenshot: Launch image](https://github.com/wnuraeni/IntranetMessenger/blob/master/register screen.png)
 
 About
 -----
